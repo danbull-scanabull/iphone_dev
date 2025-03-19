@@ -1,0 +1,5 @@
+ignore/
+python311-env/
+__pycache__
+test_data/*
+test_output/*
