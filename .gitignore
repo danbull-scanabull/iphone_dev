@@ -3,3 +3,5 @@ ignore/
 python311-env/
 __pycache__
 test_output/
+*.mlpackage
+settings.json
